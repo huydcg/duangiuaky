@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71892798919",
+    "project_id": "duangiuaky",
+    "storage_bucket": "duangiuaky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71892798919:android:f92f17fe2ea3fdfb0c9de2",
+        "android_client_info": {
+          "package_name": "com.example.duangiuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QtF9dlYXWKIrfS1v1bw-BC90ik0cjx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
